@@ -1,0 +1,1 @@
+G:\Visual\ASM\ASM\ASM.csproj;x86
